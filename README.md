@@ -1,2 +1,2 @@
 # scrip1
-Scriptonitr
+Scriptonite
